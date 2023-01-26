@@ -1,0 +1,15 @@
+/Users/user/Desktop/Examples/Example003_HelloSum/bin/Debug/net6.0/Example003_HelloSum
+/Users/user/Desktop/Examples/Example003_HelloSum/bin/Debug/net6.0/Example003_HelloSum.deps.json
+/Users/user/Desktop/Examples/Example003_HelloSum/bin/Debug/net6.0/Example003_HelloSum.runtimeconfig.json
+/Users/user/Desktop/Examples/Example003_HelloSum/bin/Debug/net6.0/Example003_HelloSum.dll
+/Users/user/Desktop/Examples/Example003_HelloSum/bin/Debug/net6.0/Example003_HelloSum.pdb
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.csproj.AssemblyReference.cache
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.AssemblyInfoInputs.cache
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.AssemblyInfo.cs
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.dll
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/refint/Example003_HelloSum.dll
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.pdb
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/Example003_HelloSum.genruntimeconfig.cache
+/Users/user/Desktop/Examples/Example003_HelloSum/obj/Debug/net6.0/ref/Example003_HelloSum.dll
