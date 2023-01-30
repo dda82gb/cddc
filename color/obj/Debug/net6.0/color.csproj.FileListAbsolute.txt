@@ -1,0 +1,15 @@
+/Users/user/Desktop/Examples/color/bin/Debug/net6.0/color
+/Users/user/Desktop/Examples/color/bin/Debug/net6.0/color.deps.json
+/Users/user/Desktop/Examples/color/bin/Debug/net6.0/color.runtimeconfig.json
+/Users/user/Desktop/Examples/color/bin/Debug/net6.0/color.dll
+/Users/user/Desktop/Examples/color/bin/Debug/net6.0/color.pdb
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.csproj.AssemblyReference.cache
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.AssemblyInfoInputs.cache
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.AssemblyInfo.cs
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.dll
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/refint/color.dll
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.pdb
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/color.genruntimeconfig.cache
+/Users/user/Desktop/Examples/color/obj/Debug/net6.0/ref/color.dll
