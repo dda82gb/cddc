@@ -1,0 +1,15 @@
+/Users/user/Desktop/Examples/new/bin/Debug/net6.0/new
+/Users/user/Desktop/Examples/new/bin/Debug/net6.0/new.deps.json
+/Users/user/Desktop/Examples/new/bin/Debug/net6.0/new.runtimeconfig.json
+/Users/user/Desktop/Examples/new/bin/Debug/net6.0/new.dll
+/Users/user/Desktop/Examples/new/bin/Debug/net6.0/new.pdb
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.csproj.AssemblyReference.cache
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.AssemblyInfoInputs.cache
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.AssemblyInfo.cs
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.csproj.CoreCompileInputs.cache
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.dll
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/refint/new.dll
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.pdb
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/new.genruntimeconfig.cache
+/Users/user/Desktop/Examples/new/obj/Debug/net6.0/ref/new.dll
